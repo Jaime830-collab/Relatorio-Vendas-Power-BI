@@ -4,16 +4,6 @@ Desafio de Projeto da DIO
 Este é um relatorio de Vendas, Lucros e descontos de alto desempenho, projetada para simplificar e tornar seguras as vizualizações e tomadas de decisões por parte de gestores. Com este relatorio , você pode gerenciar suas vendas com facilidade e confiança.
 
 
-## :closed_book:Componentes Principais
-
-- **Segmentadores de dados** 
-
-- **Visuais personalizados**
-
-- **Botões de navegação entre as páginas** 
-
-- **Botões com indicadores para alternar entre os gráficos mostrados**
-
 
 ## :mag_right:Como Usar
 
